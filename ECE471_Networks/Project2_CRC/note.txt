@@ -1,0 +1,15 @@
+Putty
+Hostname: vps62297.inmotionhosting.com
+Username: usr1
+Password: fall2020umd
+cd xHub/ComputerNetworks
+python3.7 server.py 9993
+
+top -U usr1
+"find PID"
+q
+kill -9 PID
+
+Anaconda
+cd Documents\CE\ECE 471\Project 2
+python "Pr2.py"
